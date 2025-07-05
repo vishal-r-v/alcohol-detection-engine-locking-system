@@ -62,8 +62,7 @@ software/arduino/alcohol_detection_vishal_final.ino
 │ ├── assembled/
 │ ├── block-diagram/
 │ └── components/
-├── software/
-│ └── arduino/
+├── arduino/
 ├── README.md
 └── LICENSE
 
