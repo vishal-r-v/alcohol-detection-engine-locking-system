@@ -79,4 +79,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Vishal
 - Pranav
 
-git clone https://github.com/YOUR_USERNAME/alcohol-detection-engine-locking.git
+git clone https://github.com/vishal-r-v/alcohol-detection-engine-locking-system.git
